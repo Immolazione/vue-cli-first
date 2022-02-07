@@ -1,4 +1,5 @@
 <template>
+    <img src="../assets/Amogus.jpg" alt="Amogus">
 </template>
 
 <script>
